@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package my.first.app;
-
+// Already remove Local text from then branch
 /**
  *
  * @author Administrator
